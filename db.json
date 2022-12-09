@@ -39,6 +39,54 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Kojiro Red Ramen",
+      "restaurant": "Ramen-Ya",
+      "image": "",
+      "rating": "3",
+      "comment": "s",
+      "id": 6
+    },
+    {
+      "name": "Noodlesy Ramen",
+      "restaurant": "Tatu",
+      "image": "",
+      "rating": "7",
+      "comment": "Heavenly taste",
+      "id": 7
+    },
+    {
+      "name": "Tayuu Ramen",
+      "restaurant": "Nonono",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": 9,
+      "comment": "Heavenly!",
+      "id": 8
+    },
+    {
+      "name": "Spicy Ramen",
+      "restaurant": "Tatu",
+      "image": "https://img.freepik.com/free-photo/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food_1150-42997.jpg?size=626&ext=jpg",
+      "rating": "9",
+      "comment": "simply delicious",
+      "id": 9
+    },
+    {
+      "name": "King Noodles Zucchini Ramen",
+      "restaurant": "Artcaff",
+      "image": "https://img.freepik.com/free-photo/korean-instant-noodles-spicy-instant-noodles_1205-1539.jpg?w=1380&t=st=1670597705~exp=1670598305~hmac=c9102883ebdf815b02df5219fbfecd238306ba79f27ff4c052ea44dcee1f364e",
+      "rating": "8",
+      "comment": "hot and sweet!",
+      "id": 10
+    },
+    {
+      "name": "Extra Chilly Ramen",
+      "restaurant": "tofuu",
+      "image": "https://img.freepik.com/free-photo/korean-instant-noodles-spicy-instant-noodles_1205-1539.jpg?w=1380&t=st=1670597705~exp=1670598305~hmac=c9102883ebdf815b02df5219fbfecd238306ba79f27ff4c052ea44dcee1f364e",
+      "rating": "7",
+      "comment": "Extra hotness and delicious",
+      "id": 11
     }
   ]
 }
